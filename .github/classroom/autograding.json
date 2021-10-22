@@ -1,0 +1,114 @@
+{
+  "tests": [
+    {
+      "name": "isSimplified",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testIsSimplified",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Calculate Double Value",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testCalculateDoubleValue",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Pow",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testPow",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Contains",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testContains",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Increment",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testIncrement",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Decrement",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testDecrement",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Round",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testRound",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "isNegative",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testIsNegative",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Reciprocal",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testReciprocal",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Equals",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testEquals",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    },
+    {
+      "name": "Equivalent Fraction",
+      "setup": "",
+      "run": "./gradlew clean test --tests MyTests.testChangeToEquivalentFraction",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
+    }
+  ]
+}
